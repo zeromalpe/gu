@@ -1,0 +1,46 @@
+{
+  "_fv": 28,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "block",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      },
+      {
+        "value": "CUSTOM:Yuanshi"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Yuanshiblock"
+    },
+    "name": "diamond_block",
+    "namespace": "mod"
+  }
+}

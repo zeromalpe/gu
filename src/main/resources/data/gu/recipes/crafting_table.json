@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "gu:yuanshi"
+    },
+    "1": {
+      "item": "gu:yuanshi"
+    },
+    "2": {
+      "item": "gu:yuanshi"
+    },
+    "3": {
+      "item": "gu:yuanshi"
+    },
+    "4": {
+      "item": "gu:yuanshi"
+    },
+    "5": {
+      "item": "gu:yuanshi"
+    },
+    "6": {
+      "item": "gu:yuanshi"
+    },
+    "7": {
+      "item": "gu:yuanshi"
+    },
+    "8": {
+      "item": "gu:yuanshi"
+    }
+  },
+  "result": {
+    "item": "gu:yuanshiblock",
+    "count": 1
+  }
+}

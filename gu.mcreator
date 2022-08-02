@@ -1,0 +1,219 @@
+{
+  "mod_elements": [
+    {
+      "name": "Itemhopegu",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itemhopegu"
+    },
+    {
+      "name": "Hopegu",
+      "type": "livingentity",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hopegu"
+    },
+    {
+      "name": "Gu",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "gu"
+    },
+    {
+      "name": "ItemhopeguDangYouJianDianJiKongQiShiShiTiDeWeiZhi",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itemhopegu_dang_you_jian_dian_ji_kong_qi_shi_shi_ti_de_wei_zhi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ItemhopeguDangYouJianDianJiFangKuaiShiFangKuaiDeWeiZhi",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itemhopegu_dang_you_jian_dian_ji_fang_kuai_shi_fang_kuai_de_wei_zhi",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Yuanshi",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuanshi"
+    },
+    {
+      "name": "Oreyuanshi",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "oreyuanshi"
+    },
+    {
+      "name": "Droporeyuanshi",
+      "type": "loottable",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "droporeyuanshi"
+    },
+    {
+      "name": "Itemhumanwingodgu",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "itemhumanwingodgu"
+    },
+    {
+      "name": "Yuanshiblock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuanshiblock"
+    },
+    {
+      "name": "Compoundyuanshiblock",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "compoundyuanshiblock"
+    },
+    {
+      "name": "Grityuanshi",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "grityuanshi"
+    },
+    {
+      "name": "Nuggetyuanshi",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuggetyuanshi"
+    },
+    {
+      "name": "Dropgrityuanshi",
+      "type": "loottable",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dropgrityuanshi"
+    },
+    {
+      "name": "Nuggetyuanshitoyuanshi",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuggetyuanshitoyuanshi"
+    },
+    {
+      "name": "Yuanshitonuggetyuanshi",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "yuanshitonuggetyuanshi"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.gu.yuanshiblock": "Yuanshiblock",
+      "itemGroup.tabgu": "Gu",
+      "block.gu.oreyuanshi": "Oreyuanshi",
+      "item.gu.nuggetyuanshi": "Nuggetyuanshi",
+      "item.gu.itemhopegu": "Itemhopegu",
+      "entity.gu.hopegu": "Hopegu",
+      "item.gu.hopegu_spawn_egg": "Hopegu Spawn Egg",
+      "item.gu.itemhumanwingodgu": "humanwingodgu",
+      "block.gu.grityuanshi": "Grityuanshi",
+      "item.gu.yuanshi": "Yuanshi"
+    },
+    "zh_cn": {
+      "block.gu.yuanshiblock": "元石快",
+      "itemGroup.tabgu": "蛊",
+      "block.gu.oreyuanshi": "元石矿",
+      "item.gu.nuggetyuanshi": "碎元石",
+      "item.gu.itemhopegu": "希望蛊",
+      "entity.gu.hopegu": "希望蛊",
+      "item.gu.hopegu_spawn_egg": "希望蛊刷怪蛋",
+      "item.gu.itemhumanwingodgu": "人力胜天蛊",
+      "block.gu.grityuanshi": "元石沙砾",
+      "item.gu.yuanshi": "元石"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "gu",
+    "modName": "gu",
+    "version": "1.0.0",
+    "author": "zerom, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.gu",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200120510
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "gu:yuanshi"
+    }
+  ],
+  "result": {
+    "item": "gu:nuggetyuanshi",
+    "count": 9
+  }
+}

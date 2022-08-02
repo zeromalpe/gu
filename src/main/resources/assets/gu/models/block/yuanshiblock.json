@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "gu:blocks/blockofyuanshi",
+    "up": "gu:blocks/blockofyuanshi",
+    "north": "gu:blocks/blockofyuanshi",
+    "east": "gu:blocks/blockofyuanshi",
+    "south": "gu:blocks/blockofyuanshi",
+    "west": "gu:blocks/blockofyuanshi",
+    "particle": "gu:blocks/blockofyuanshi"
+  }
+}
